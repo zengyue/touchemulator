@@ -1,0 +1,10 @@
+dist/
+lib/
+node_modules/
+es5/
+es6/
+es/
+coverage/
+*.log
+.vscode/
+.docz/

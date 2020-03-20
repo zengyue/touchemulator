@@ -1,0 +1,29 @@
+{
+  "name": "f2-touchemulator",
+  "version": "0.0.1",
+  "description": "Emulate touch on desktop",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.umd.js",
+  "files": [
+    "src",
+    "lib",
+    "dist"
+  ],
+  "scripts": {
+    "dev": "father doc dev",
+    "build": "father build",
+    "test": "father test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "father": "~2.29.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zengyue/touchemulator"
+  },
+  "author": "",
+  "license": "MIT"
+}
