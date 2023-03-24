@@ -1,6 +1,6 @@
 {
   "name": "f2-touchemulator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Emulate touch on desktop",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -15,8 +15,7 @@
     "build": "father build",
     "test": "father test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "father": "~2.29.2"
   },
